@@ -7,7 +7,7 @@
   <img align="center" alt="Pamela-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Pamela-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pamela-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="Pamela-avatar" height="130" style="border-radius:50px;" src="https://i.ibb.co/LS2yzyV/download20211001152352.png?width=676&height=676">
+  <img align="right" alt="Pamela-avatar" height="130" style="border-radius:50px;" src="https://i.ibb.co/rbDcTB6/avatar-Pamela.png?width=676&height=676">
 </div>
 
 ##
